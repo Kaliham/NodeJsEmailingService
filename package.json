@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"nodemailer": "^6.7.6"
+	},
+	"name": "node_js_emailing_service",
+	"version": "1.0.0",
+	"description": "Send emails, cc, and easy setup",
+	"main": "src/app.js",
+	"repository": "https://github.com/Kaliham/NodeJsEmailingService.git",
+	"author": "Kaliham",
+	"license": "MIT"
+}
